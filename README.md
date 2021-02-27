@@ -8,10 +8,10 @@
 
 ## Repo Organization
 
-### code
+- ### code
 
 This directory contain the code and assets.
 
 
-### Game
-This directory contain a built from game
+- ### Game
+This directory contain a built from game.
