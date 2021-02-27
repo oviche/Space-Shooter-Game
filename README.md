@@ -1,17 +1,18 @@
 # Space-Shooter-Game
 
-- Space shooter Game that contain game play modes:
+- 'Space shooter Game' contains three game play modes:
  
 
 
 
 
 ## Repo Organization
+- Thie Repository contains two directories:
 
-- ### code
+### code
 
 This directory contain the code and assets.
 
 
-- ### Game
+### Game
 This directory contain a built from game.
