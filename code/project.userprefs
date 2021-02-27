@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\enemyMode\powerUp2EnemiesMode.cs">
+    <Files>
+      <File FileName="Assets\scripts\enemyMode\gameControllerModeEnemies.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\enemyMode\powerUp2EnemiesMode.cs" Line="33" Column="27" />
+      <File FileName="Assets\scripts\VsMode\powerUp2VSMode.cs" Line="23" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
